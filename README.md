@@ -26,8 +26,9 @@ Code: K2004
 Professor: Lic. Eduardo Zúñiga
 
 # Group members
-|     Member     |                       User                       |
-| -------------- | ------------------------------------------------ |
-| Matias Ferraro | [@MatiFerraro](https://github.com/MatiFerraro)   |
-| Nahuel Farias  | [@NahuelFarias](https://github.com/NahuelFarias) |
-| Joel Suh       | [@jlsuh](https://github.com/jlsuh)               |
+|     Member     |                       User                          |
+| -------------- | --------------------------------------------------- |
+| Matias Ferraro | [@MatiFerraro](https://github.com/MatiFerraro)      |
+| Nahuel Farias  | [@NahuelFarias](https://github.com/NahuelFarias)    |
+| Joel Suh       | [@jlsuh](https://github.com/jlsuh)                  |
+| Catalina Wierna| [@CatalinaWierna](https://github.com/CatalinaWierna)|
